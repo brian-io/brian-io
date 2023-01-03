@@ -3,7 +3,7 @@ I'm Mikwa Brian, a Data Scientist with a drive for new innovative ideas and lear
 
 
 I offer skills in:
- - Python, R Studio, NoSQL & SQL
+ - Python, R, NoSQL & SQL
  - Julia, Hadoop and Tableau
  - Machine Learning Algorithms
  - Data Wrangling and Visualisation
