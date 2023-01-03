@@ -4,16 +4,16 @@ I'm Mikwa Brian, a Data Scientist with a drive for new innovative ideas and lear
 
 I offer skills in:
  - Python, R Studio, NoSQL & SQL
- - Machine Learning
+ - Julia, Hadoop and Tableau
+ - Machine Learning Algorithms
  - Data Wrangling and Visualisation
- - Modelling
- - Statistics
+ - Statistical Modelling
  
  ### Reach me
  You can reach me through my socials
  - [LinkedIn](linkedin.com/in/brian-mikwa-a9700620a)
  - [Twitter](https://twitter.com/__brayo)
- - [Email](brianmikwaa@gmail.com)
+ - [Email](brianmunenemikwa@gmail.com)
 
 <!--
 **mikvva/mikvva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
