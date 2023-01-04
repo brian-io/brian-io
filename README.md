@@ -3,7 +3,7 @@ I'm Mikwa Brian, a Data Scientist with a drive for new innovative ideas and lear
 
 I offer skills in:
  - Python, R, NoSQL & SQL
- - Julia, Hadoop and Tableau
+ - Tensorflow, FastAPI
  - Machine Learning Algorithms
  - Data Wrangling and Visualisation
  - Statistical Modelling
