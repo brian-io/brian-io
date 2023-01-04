@@ -1,5 +1,5 @@
 ### Hi,
-I'm Mikwa Brian, a Data Scientist with a drive for new innovative ideas and learning. Well versed in machine learning,image recognition and predictive modelling. I also build fun projects in my spare time.
+I'm Mikwa Brian, a Data Scientist with a drive for new innovative ideas and learning. Well versed in machine learning, image recognition and predictive modelling. I also build fun projects in my spare time.
 
 I offer skills in:
  - Python, R, NoSQL & SQL
