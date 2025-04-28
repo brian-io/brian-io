@@ -5,7 +5,7 @@ I'm a **Fullstack Developer** passionate about building **scalable web apps**, *
 ---
 
 ## 🚀 About Me
-- 🔥 Fullstack engineer skilled in **Laravel**, **Next.js**, **React**, and **Node.js**.
+- 🔥 Fullstack engineer skilled in **Django**, **Next.js**, **React**, and **Node.js**, **Express**, **Laravel**.
 - 🌎 I love solving real-world problems with clean, efficient, and scalable code.
 - 🎯 Currently exploring **microservices**, **serverless architectures**, and **AI integration**.
 - 🛠️ Advocate for **best practices**, **test-driven development (TDD)**, and **continuous learning**.
@@ -43,8 +43,8 @@ I'm a **Fullstack Developer** passionate about building **scalable web apps**, *
 ---
 
 ## 📫 Let's Connect
-- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/brianmikwa/)
-- **Portfolio**: [yourportfolio.com](https://mikwa.netlify.app/)
+- **LinkedIn**: [Brian Mikwa](https://www.linkedin.com/in/brianmikwa/)
+- **Portfolio**: [Website Portfolio](https://mikwa.netlify.app/)
 - **Email**: brianmikwaa@gmail.com
 
 ---
