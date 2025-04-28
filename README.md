@@ -1,29 +1,54 @@
-### Hi,
-I'm Mikwa Brian, a Data Scientist with a drive for new innovative ideas and learning. Well versed in machine learning alogorithms in image recognition and predictive modelling. I also build fun projects in my spare time.
+# 👋 Hi, I'm [Your Name]!
 
-I offer skills in:
- - Python, R, NoSQL & SQL
- - Tensorflow, FastAPI
- - Machine Learning Algorithms
- - Data Wrangling and Visualisation
- - Statistical Modelling
- 
- ### Reach me
- You can reach me through my socials
- - [LinkedIn](linkedin.com/in/brian-mikwa-a9700620a)
- - [Email](brianmunenemikwa@gmail.com)
+I'm a **Fullstack Developer** passionate about building **scalable web apps**, **modern APIs**, and crafting **exceptional user experiences**.
 
-<!--
-**mikvva/mikvva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 🔥 Fullstack engineer skilled in **Laravel**, **Next.js**, **React**, and **Node.js**.
+- 🌎 I love solving real-world problems with clean, efficient, and scalable code.
+- 🎯 Currently exploring **microservices**, **serverless architectures**, and **AI integration**.
+- 🛠️ Advocate for **best practices**, **test-driven development (TDD)**, and **continuous learning**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack
+**Frontend**  
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat) 
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white&style=flat) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?logo=tailwind-css&logoColor=white&style=flat)
+
+**Backend**  
+![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?logo=laravel&logoColor=white&style=flat) 
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat) 
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+
+**Database**  
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white&style=flat) 
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+
+**Tools**  
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat) 
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat) 
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+
+---
+
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourUsername&theme=radical" width="400" />
+</p>
+
+---
+
+## 📫 Let's Connect
+- **LinkedIn**: [Your LinkedIn](https://www.linkedin.com/in/yourprofile/)
+- **Portfolio**: [yourportfolio.com](https://yourportfolio.com/)
+- **Email**: youremail@example.com
+
+---
+
+> *"Code is like humor. When you have to explain it, it’s bad." — Cory House*
+
+Thanks for stopping by! 😊
