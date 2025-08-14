@@ -5,7 +5,7 @@ I'm a **Fullstack Developer** passionate about building **scalable web apps**, *
 ---
 
 ## 🚀 About Me
-- 🔥 Fullstack engineer skilled in **Django**, **Next.js**, **React**, and **Node.js**, **Express**, **Laravel**.
+- 🔥 Fullstack engineer skilled in **Django**, **Laravel**, **Next.js**, **React**, and **Node.js**, **Express**.
 - 🌎 I love solving real-world problems with clean, efficient, and scalable code.
 - 🎯 Currently exploring **microservices**, **serverless architectures**, and **AI integration**.
 - 🛠️ Advocate for **best practices**, **test-driven development (TDD)**, and **continuous learning**.
