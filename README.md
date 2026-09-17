@@ -36,7 +36,6 @@ I'm a **Fullstack Developer** passionate about building **scalable web apps**, *
 
 ## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=brian-io&show_icons=true&theme=radical" width="450" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=brian-io&theme=radical" width="400" />
 </p>
 
